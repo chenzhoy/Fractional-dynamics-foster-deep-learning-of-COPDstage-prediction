@@ -15,7 +15,7 @@ The code package is available in Python. Run code in Google Colab is recommended
 ## Fractional dynamics modeling of COPD relevant physiological signals
 "Fractional dynamic modeling" folder contains the code to extract the fractional dynamic signatures from time-series. 
 
-We provide an example edf file (signals) extracted from a patient with mild symptoms (stage 1). Please use this link to download the file: https://drive.google.com/drive/folders/15VuS5EbrmnktFh9dsAX1NRQX-t-eGzV_?usp=sharing
+We provide an example edf file (signals) generated from a patient with mild symptoms (stage 1). Please use this link to download the file: https://drive.google.com/drive/folders/15VuS5EbrmnktFh9dsAX1NRQX-t-eGzV_?usp=sharing
 
 The code package is written in Matlab. 
 
