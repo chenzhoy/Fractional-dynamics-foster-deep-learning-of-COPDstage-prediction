@@ -19,3 +19,8 @@ We provide an example edf file (signals) generated from a patient with mild symp
 
 The code package is written in Matlab. 
 
+## Figures in the manuscript
+The "Figures" folder contains the files which are used to generate Figures in the manuscript. 
+
+The code package is written in Python 
+
